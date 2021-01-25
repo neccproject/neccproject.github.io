@@ -1557,14 +1557,16 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 
 .team.style-2 .team-small li {
     float: left;
-    width: 16.666666%;
+    width: 12%;
     position: relative;
     overflow: hidden;
+    margin: 2%;
+    border-radius: 50%;
 }
 
 .team.style-2 .team-small li .hover {
     background: rgba(0, 0, 0, 0.8);
-    font-size: 14px;
+    font-size: 12px;
     position: absolute;
     padding: 10px;
     width: 100%;
